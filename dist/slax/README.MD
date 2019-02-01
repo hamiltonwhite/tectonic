@@ -10,6 +10,7 @@ The core package is 06-academicwriting.sb, and incorporates the following packag
 * Miniconda3
 * Tectonic
 * Atom Editor (as an appimage)
+* Pandoc
 
 I've also compiled the system into a full iso of Slax 9.7.0, which is the basis for the system usage description below.
 
