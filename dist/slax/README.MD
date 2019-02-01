@@ -29,3 +29,6 @@ I've also compiled the system into a full iso of Slax 9.7.0, which is the basis 
 ## Notes:
 * I have not edited the writing template I've included yet, so bare with me.
 * I will be making further changes to this distribution soon, and will include a set of working modules when that happens.
+
+## Download
+The files were too big to upload to Github.  They are available via [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2555402.svg)](https://doi.org/10.5281/zenodo.2555402)
